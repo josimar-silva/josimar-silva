@@ -68,7 +68,7 @@ From 🇧🇷. Currently based in 🇩🇪.
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" alt="amazonwebservices logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
   <img width="5" />
