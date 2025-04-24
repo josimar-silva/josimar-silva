@@ -2,48 +2,37 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN24wbDl6eGNlbm1ma2I2OHI5Mmxuanh2OTdxc2wyN3E3eHo4aTB1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"  />
 </div>
 
-###
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; overflow-x: auto; padding: 10px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/josimar-silvx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" style="max-width: 100%; height: 25;"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.goodreads.com/josimar-silva" target="_blank">
-    <img src="https://d.gr-assets.com/misc/1454549184-1454549184_goodreads_misc.jpg" height="25" alt="goodreads logo" style="max-width: 100%; height: 25;"/>
+    <img src="https://d.gr-assets.com/misc/1454549184-1454549184_goodreads_misc.jpg" height="25" alt="goodreads logo" />
   </a>
   <a href="https://discord.com/users/803697086046535730" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" style="max-width: 100%; height: 25;"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=josimar-silva.josimar-silva&"  />
 </div>
 
-###
+---
 
-<h2 align="center">Hi, I'm Josimar Silva</h2>
+### 👋 Hi, I'm Josimar
 
-###
+💼 I'm a **Staff Software Engineer** with a passion for crafting clean, scalable systems and coaching engineering teams toward excellence.
 
-<p align="left">
-I'm a Software Engineer passionate about code quality and good software development practices.
-<br>
-I have experience in various technologies and extensive knowledge of JVM-based languages, cloud-native solutions, CI/CD, and microservices. 
-<br>
-A strong enthusiast of Extreme Programming practices, I believe that
-the best solutions come from teamwork and technical excellence.
-<br>
-From 🇧🇷. Currently based in 🇩🇪.
-</p>
+🚀 I specialize in **JVM-based backends**, **cloud-native architectures**, and **DevOps practices**.
 
-###
+🛠️ I'm a strong advocate for engineering practices inspired by Extreme Programming—such as continuous integration, automated testing, pair programming, collective code ownership, refactoring, and incremental design—that foster team collaboration, maintainability, and long-term quality.
 
-<h3 align="left">🛠 My utility belt contains</h3>
+_Originally from 🇧🇷, now working out of 🇩🇪._
 
-###
+---
+
+### 🧰 Tech I work with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
@@ -101,17 +90,17 @@ From 🇧🇷. Currently based in 🇩🇪.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 </div>
 
-###
+---
 
-<h1 align="left"></h1>
+### 🌟 Highlights
 
-###
+- 🏗️ Leading cross-chapter architecture initiatives at FRIDAY, ensuring technical alignment and driving scalable, maintainable solutions across teams.
+- 🇫🇷 Provided end-to-end technical leadership for FRIDAY’s first insurance product in the French market, from architecture to delivery, ensuring a robust and future-proof system.
+- 👨‍🏫 Mentoring junior and mid-level engineers through 1:1s, knowledge-sharing sessions, and technical feedback.
+- 🧑‍💻 Actively participating in FRIDAY’s hiring process: reviewing code challenges, conducting interviews, and helping shape the engineering bar.
+- 🧩 Published an open-source [**Sonar plugin for Gosu**](https://github.com/FRI-DAY/sonar-gosu-plugin)
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake.svg" />
-</picture> -->
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph-dark.svg">
@@ -119,4 +108,15 @@ From 🇧🇷. Currently based in 🇩🇪.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake.svg" />
+</picture> -->
+
+<!--
+#softwareengineer #kotlin #java #aws #kubernetes #cloudnative #microservices #backend #devops #opensource #extremeprogramming #technicallead #sonarqube #ci-cd #teamlead #mentorship
+-->
+
+<!-- v2.0.0 -->
+<!-- Co-authored by ChatGPT (model: GPT-4-turbo) -->
