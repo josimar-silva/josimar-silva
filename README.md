@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.goodreads.com/josimar-silva" target="_blank">
-    <img src="https://d.gr-assets.com/misc/1454549184-1454549184_goodreads_misc.jpg" height="25" alt="goodreads logo" />
+    <img src="https://d.gr-assets.com/misc/1454549184-1454549184_goodreads_misc.jpg" height="25" width="120" alt="goodreads logo" />
   </a>
   <a href="https://discord.com/users/803697086046535730" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
@@ -29,7 +29,7 @@
 🛠️ I'm a strong advocate for engineering practices inspired by Extreme Programming—such as continuous integration, automated testing, pair programming, collective code ownership, refactoring, and incremental design—that foster team collaboration, maintainability, and long-term quality.
 
 _Originally from 🇧🇷, now working out of 🇩🇪._
-
+<!--
 ---
 
 ### 🧰 Tech I work with
@@ -89,7 +89,7 @@ _Originally from 🇧🇷, now working out of 🇩🇪._
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 </div>
-
+ -->
 ---
 
 ### 🌟 Highlights
