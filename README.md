@@ -29,7 +29,7 @@
 🛠️ I'm a strong advocate for engineering practices inspired by Extreme Programming—such as continuous integration, automated testing, pair programming, collective code ownership, refactoring, and incremental design—that foster team collaboration, maintainability, and long-term quality.
 
 _Originally from 🇧🇷, now working out of 🇩🇪._
-<!--
+
 ---
 
 ### 🧰 Tech I work with
@@ -89,7 +89,7 @@ _Originally from 🇧🇷, now working out of 🇩🇪._
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 </div>
- -->
+ 
 ---
 
 ### 🌟 Highlights
