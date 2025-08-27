@@ -90,6 +90,8 @@ _Originally from 🇧🇷, now working out of 🇩🇪._
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 </div>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph.svg">
