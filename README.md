@@ -20,9 +20,9 @@
 
 ---
 
-### 👋 Hi, I'm Josimar
+### 👋🏾 Hi, I'm Josimar Silva
 
-💼 I'm a **Staff Software Engineer** with a passion for crafting clean, scalable systems and coaching engineering teams toward excellence.
+💼 I'm a **Software Engineer** with a passion for crafting scalable systems.
 
 🚀 I specialize in **JVM-based backends**, **cloud-native architectures**, and **DevOps practices**.
 
@@ -89,18 +89,6 @@ _Originally from 🇧🇷, now working out of 🇩🇪._
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 </div>
- 
----
-
-### 🌟 Highlights
-
-- 🏗️ Leading cross-chapter architecture initiatives at FRIDAY, ensuring technical alignment and driving scalable, maintainable solutions across teams.
-- 🇫🇷 Provided end-to-end technical leadership for FRIDAY’s first insurance product in the French market, from architecture to delivery, ensuring a robust and future-proof system.
-- 👨‍🏫 Mentoring junior and mid-level engineers through 1:1s, knowledge-sharing sessions, and technical feedback.
-- 🧑‍💻 Actively participating in FRIDAY’s hiring process: reviewing code challenges, conducting interviews, and helping shape the engineering bar.
-- 🧩 Published an open-source [**Sonar plugin for Gosu**](https://github.com/FRI-DAY/sonar-gosu-plugin)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph-dark.svg">
