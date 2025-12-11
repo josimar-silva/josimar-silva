@@ -3,20 +3,20 @@
 </div>
 
 <div align="center">
+  <a href="https://josimar-silva.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=blog&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
+  </a>
   <a href="https://www.linkedin.com/in/josimar-silvx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.goodreads.com/josimar-silva" target="_blank">
     <img src="https://d.gr-assets.com/misc/1454549184-1454549184_goodreads_misc.jpg" height="25" width="120" alt="goodreads logo" />
   </a>
-  <a href="https://discord.com/users/803697086046535730" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=josimar-silva.josimar-silva&"  />
-</div>
+</div> -->
 
 ---
 
@@ -108,5 +108,3 @@ _Originally from 🇧🇷, now working out of 🇩🇪._
 #softwareengineer #kotlin #java #aws #kubernetes #cloudnative #microservices #backend #devops #opensource #extremeprogramming #technicallead #sonarqube #ci-cd #teamlead #mentorship
 -->
 
-<!-- v2.0.0 -->
-<!-- Co-authored by ChatGPT (model: GPT-4-turbo) -->
