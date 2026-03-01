@@ -1,110 +1,125 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN24wbDl6eGNlbm1ma2I2OHI5Mmxuanh2OTdxc2wyN3E3eHo4aTB1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"  />
+
+<!-- Header Banner - Light Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/refs/heads/main/images/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/refs/heads/main/images/hero-light.svg"" width="100%" alt="Header" />
+</picture>
+
 </div>
 
 <div align="center">
-  <a href="https://josimar-silva.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=blog&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/josimar-silvx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.goodreads.com/josimar-silva" target="_blank">
-    <img src="https://d.gr-assets.com/misc/1454549184-1454549184_goodreads_misc.jpg" height="25" width="120" alt="goodreads logo" />
-  </a>
+
+<h3>
+Curious Software Engineer, homelabber, gamer, drummer, reader and casual runner.
+</h3>
+
+[![Blog](https://img.shields.io/badge/Blog-ddd6fe?style=flat&logo=hashnode&logoColor=3b0764)](https://josimar-silva.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ddd6fe?style=flat&logo=linkedin&logoColor=3b0764)](https://www.linkedin.com/in/josimar-silvx/)&nbsp;&nbsp;
+[![Goodreads](https://img.shields.io/badge/Goodreads-ddd6fe?style=flat&logo=goodreads&logoColor=3b0764)](https://www.goodreads.com/josimar-silva)
+
 </div>
 
-<!-- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=josimar-silva.josimar-silva&"  />
-</div> -->
+<br/>
+
 
 ---
 
-### 👋🏾 Hi, I'm Josimar Silva
+### Currently
 
-💼 I'm a **Software Engineer** with a passion for crafting scalable systems.
-
-🚀 I specialize in **JVM-based backends**, **cloud-native architectures**, and **DevOps practices**.
-
-🛠️ I'm a strong advocate for engineering practices inspired by Extreme Programming—such as continuous integration, automated testing, pair programming, collective code ownership, refactoring, and incremental design—that foster team collaboration, maintainability, and long-term quality.
-
-_Originally from 🇧🇷, now working out of 🇩🇪._
+[![Staff Software Engineer at FRIDAY Insurance](https://img.shields.io/badge/Staff_SWE_at_FRIDAY-ede9fe?style=flat&logoColor=4c1d95)](https://www.friday.de)&nbsp;
+[![Writing on josimar-silva.com](https://img.shields.io/badge/Writing_on_josimar--silva.com-ede9fe?style=flat&logo=hashnode&logoColor=4c1d95)](https://josimar-silva.com)&nbsp;
+[![Homelabbing](https://img.shields.io/badge/Homelabbing-ede9fe?style=flat&logo=homeassistant&logoColor=4c1d95)](https://github.com/josimar-silva/homelab)&nbsp;
 
 ---
 
-### 🧰 Tech I work with
+### Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="20" alt="kotlin logo" />
-  <img width="5" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" alt="rust logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="bash logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20" alt="kubernetes logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="20" alt="grafana logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="20" alt="prometheus logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" alt="amazonwebservices logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="20" alt="gitlab logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="20" alt="gradle logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="20" alt="tomcat logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="20" alt="sonar logo" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20" alt="redis logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="microsoftsqlserver logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="20" alt="intellij logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
-</div>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-c4b5fd?style=flat&logo=openjdk&logoColor=1e1b4b)
+![Kotlin](https://img.shields.io/badge/Kotlin-c4b5fd?style=flat&logo=kotlin&logoColor=1e1b4b)
+![Python](https://img.shields.io/badge/Python-c4b5fd?style=flat&logo=python&logoColor=1e1b4b)
+![JavaScript](https://img.shields.io/badge/JavaScript-c4b5fd?style=flat&logo=javascript&logoColor=1e1b4b)
+![Go](https://img.shields.io/badge/Go-c4b5fd?style=flat&logo=go&logoColor=1e1b4b)
+![TypeScript](https://img.shields.io/badge/TypeScript-c4b5fd?style=flat&logo=typescript&logoColor=1e1b4b)
+![Rust](https://img.shields.io/badge/Rust-c4b5fd?style=flat&logo=rust&logoColor=1e1b4b)
+![Bash](https://img.shields.io/badge/Bash-c4b5fd?style=flat&logo=gnubash&logoColor=1e1b4b)
+
+**Frameworks & Data**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ede9fe?style=flat&logo=springboot&logoColor=4c1d95)
+![Micronaut](https://img.shields.io/badge/Micronaut-ede9fe?style=flat&logo=micronaut&logoColor=4c1d95)
+![Quarkus](https://img.shields.io/badge/Quarkus-ede9fe?style=flat&logo=quarkus&logoColor=4c1d95)
+![Node.js](https://img.shields.io/badge/Node.js-ede9fe?style=flat&logo=nodedotjs&logoColor=4c1d95)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ede9fe?style=flat&logo=postgresql&logoColor=4c1d95)
+![Redis](https://img.shields.io/badge/Redis-ede9fe?style=flat&logo=redis&logoColor=4c1d95)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-ede9fe?style=flat&logo=amazondynamodb&logoColor=4c1d95)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-ddd6fe?style=flat&logo=amazonwebservices&logoColor=3b0764)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-ddd6fe?style=flat&logo=kubernetes&logoColor=3b0764)
+![Docker](https://img.shields.io/badge/Docker-ddd6fe?style=flat&logo=docker&logoColor=3b0764)
+![Helm](https://img.shields.io/badge/Helm-ddd6fe?style=flat&logo=helm&logoColor=3b0764)
+![Terraform](https://img.shields.io/badge/Terraform-ddd6fe?style=flat&logo=terraform&logoColor=3b0764)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-ddd6fe?style=flat&logo=gitlab&logoColor=3b0764)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ddd6fe?style=flat&logo=githubactions&logoColor=3b0764)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-f5f3ff?style=flat&logo=prometheus&logoColor=5b21b6)
+![Grafana](https://img.shields.io/badge/Grafana-f5f3ff?style=flat&logo=grafana&logoColor=5b21b6)
+![SonarQube](https://img.shields.io/badge/SonarQube-f5f3ff?style=flat&logo=sonarqube&logoColor=5b21b6)
 
 ---
+
+### GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="header.svg" alt="Header" width="480" />
+    </td>
+    <td align="center">
+      <img src="achievements.svg" alt="Repositories" width="480" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="languages.svg" alt="Languages" width="480" />
+    </td>
+    <td align="center">
+      <img src="repositories.svg" alt="Repositories" width="480" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="stars.svg" alt="Stars" width="480" />
+    </td>
+    <td align="center">
+      <img src="acti_comm.svg" alt="Issues, PRs & Languages" width="480" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/output/github-contribution-grid-snake.svg" />
-</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josimar-silva/josimar-silva/refs/heads/main/images/footer-dark.svg">
+  <img src="https://raw.githubusercontent.com/josimar-silva/josimar-silva/refs/heads/main/images/footer-light.svg" width="100%" alt="Footer" />
+</picture>
+
+</div>
 
 <!--
 #softwareengineer #kotlin #java #aws #kubernetes #cloudnative #microservices #backend #devops #opensource #extremeprogramming #technicallead #sonarqube #ci-cd #teamlead #mentorship
 -->
-
