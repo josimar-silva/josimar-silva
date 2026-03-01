@@ -1,0 +1,5 @@
+Dark animation:
+https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c5ce7,100:a29bfe&height=180&section=header&text=Josimar%20Silva&fontSize=36&fontColor=f8f8f2&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20🇩🇪🇧🇷&descSize=14&descColor=a29bfe&descAlignY=55&animation=fadeIn
+
+Light animation:
+https://capsule-render.vercel.app/api?type=waving&color=0:f5f3ff,50:c4b5fd,100:8b5cf6&height=180&section=header&text=Josimar%20Silva&fontSize=36&fontColor=1e1b4b&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20🇩🇪🇧🇷&descSize=14&descColor=6d28d9&descAlignY=55&animation=fadeIn
