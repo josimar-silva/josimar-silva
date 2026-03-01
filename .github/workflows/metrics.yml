@@ -17,7 +17,7 @@ jobs:
       # ── Parchment & Gold theme ──
       # Shared CSS override injected into every metrics SVG via extras_css
       # Palette: parchment #f6f1e9 · ink #5c4d3a · gold #9e7c0c · elvish #3a6b22 · mithril #7e8e9a
-      METRICS_CSS: |
+      LOTR_METRICS_CSS: |
         svg {
           color: #5c4d3a;
           background: #f6f1e9;
@@ -67,7 +67,6 @@ jobs:
           plugin_achievements_secrets: yes      # Display unlocked secrets achievements
           plugin_achievements_display: compact  # Use compact display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
-          extras_css: ${{ env.METRICS_CSS }}
       
       # ── Languages of the Realm ──
       - name: 🗡️ Languages
@@ -84,9 +83,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_colors: github
-          extras_css: ${{ env.METRICS_CSS }}
 
-      - uses: lowlighter/metrics@v3.34
+      # ── Header ──
+      - name: 👤 Header
+        uses: lowlighter/metrics@v3.34
         with:
           filename: header.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -97,9 +97,10 @@ jobs:
           template: classic
           base: header
           config_timezone: Europe/Berlin
-          extras_css: ${{ env.METRICS_CSS }}
 
-      - uses: lowlighter/metrics@v3.34
+      # ── Activity & Community ──
+      - name: 🌍 Activity & Community
+        uses: lowlighter/metrics@v3.34
         with:
           filename: acti_comm.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -110,11 +111,12 @@ jobs:
           template: classic
           base: activity, community
           config_timezone: Europe/Berlin
-          extras_css: ${{ env.METRICS_CSS }}
 
-      - uses: lowlighter/metrics@v3.34
+      # ── Chronicle of Days ──
+      - name: 📜 Calendar
+        uses: lowlighter/metrics@v3.34
         with:
-          filename: iso_calender.svg
+          filename: calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -125,13 +127,12 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          extras_css: ${{ env.METRICS_CSS }}
 
       # ── Habits of the Watch ──
       - name: 🕯️ Habits
         uses: lowlighter/metrics@v3.34 # https://github.com/lowlighter/metrics/pull/1769
         with:
-          filename: github-habits.svg
+          filename: habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -145,9 +146,10 @@ jobs:
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
-          extras_css: ${{ env.METRICS_CSS }}
 
-      - uses: lowlighter/metrics@v3.34
+      # ── Follow-up & Languages ──
+      - name: 📊 Follow-up & Languages
+        uses: lowlighter/metrics@v3.34
         with:
           filename: issue_pr_lang.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -160,7 +162,6 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_followup: yes
           plugin_languages: yes
-          extras_css: ${{ env.METRICS_CSS }}
 
       # ── Artifacts of the Forge ──
       - name: 🔨 Repositories
@@ -175,9 +176,10 @@ jobs:
           template: classic
           base: repositories
           config_timezone: Europe/Berlin
-          extras_css: ${{ env.METRICS_CSS }}
 
-      - uses: lowlighter/metrics@v3.34
+      # ── Stars & Stargazers ──
+      - name: ⭐ Stars & Stargazers
+        uses: lowlighter/metrics@v3.34
         with:
           filename: stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -194,4 +196,3 @@ jobs:
           plugin_stargazers_days: 14
           plugin_stars: yes
           plugin_stars_limit: 4
-          extras_css: ${{ env.METRICS_CSS }}
