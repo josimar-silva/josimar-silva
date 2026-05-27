@@ -27,7 +27,7 @@ Curious Software Engineer, homelabber, gamer, drummer, reader and casual runner.
 
 ### Currently
 
-[![Software Architect Lead at Yape](https://img.shields.io/badge/Architect_Lead_at_FRIDAY-ede9fe?style=flat&logoColor=4c1d95)](https://www.yape.com.pe/)&nbsp;
+[![Software Architect Lead at Yape](https://img.shields.io/badge/Architect_Lead_at_Yape-ede9fe?style=flat&logoColor=4c1d95)](https://www.yape.com.pe/)&nbsp;
 [![Writing on josimar-silva.com](https://img.shields.io/badge/Writing_on_josimar--silva.com-ede9fe?style=flat&logo=hashnode&logoColor=4c1d95)](https://josimar-silva.com)&nbsp;
 [![Homelabbing](https://img.shields.io/badge/Homelabbing-ede9fe?style=flat&logo=homeassistant&logoColor=4c1d95)](https://github.com/josimar-silva/homelab)&nbsp;
 [![3D Printing](https://img.shields.io/badge/3D_Printing-ede9fe?style=flat&logo=printables&logoColor=4c1d95)](https://makerworld.com/en/@danko_3d)&nbsp;
